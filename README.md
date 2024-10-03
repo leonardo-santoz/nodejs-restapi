@@ -1,12 +1,12 @@
-#RF
+## RF
 
-[x] O usuário deve poder criar uma nova transação;
-[x] O usuário deve poder obter um resumo da sua conta;
-[x] O usuário deve poder listar todas as transações que já ocorreram;
-[x] O usuário deve poder visualizar uma transação única;
+- [x] O usuário deve poder criar uma nova transação;
+- [x] O usuário deve poder obter um resumo da sua conta;
+- [x] O usuário deve poder listar todas as transações que já ocorreram;
+- [x] O usuário deve poder visualizar uma transação única;
 
-#RN
+## RN
 
-[x] A transação pode ser do tipo crédito, que será somada ao valor total, ou débito, que subitrairá do valor total;
-[ ] Deve ser possível identificarmos o usuário entre as requisições;
-[ ] O usuário só pode visualizar transasações realizadas por ele.
+- [x] A transação pode ser do tipo crédito, que será somada ao valor total, ou débito, que subtrairá do valor total;
+- [x] Deve ser possível identificarmos o usuário entre as requisições;
+- [x] O usuário só pode visualizar transações realizadas por ele.
