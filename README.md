@@ -1,6 +1,6 @@
 ## Descrição do Projeto
 
-Projeto desenvolvido para treinamento e revisão e aprimoramento de conteitos envolvendo desenvolvimento back-end com node.js, fastify e testes automatizados com vitest.
+Projeto desenvolvido para revisão e aprimoramento de conteitos envolvendo desenvolvimento back-end com node.js, fastify e testes automatizados com vitest.
 
 ## Requisitos funcionais
 
